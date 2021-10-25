@@ -48,9 +48,9 @@ Information and Computer Engineering
 # About International College of Technology
 # <br>
 
-### "Fostering Global Innovators"
+### Mission: To Foster Global Innovators
 - 5-year High School and Junior College level CDIO-based STEAM Education
-- Students aged 15 to 20 years transfer to university at 3rd-year level
+- Students transfer to university at 3rd-year level after graduation
 
 ### Department of Science and Technology
 - Integrated engineering experiences in first three years
