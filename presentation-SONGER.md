@@ -63,8 +63,8 @@ Information and Computer Engineering
 - Specialized engineering tracks from 4th year
 
 <!-- Now my school is not like a typical institute of higher education. Our students join from the age of 15 and study with us for 5 years in a CDIO-based STEAM education. After that, most of them graduate and transfer to a 4-year university at the 3rd-year level. -->
-<!-- So my students begin their path towards engineering considerably younger than other prospective engineering undergrads do.-->
-<!-- For this reason, I have seen many students who are not entirely sure they want to have a career in engineering from the beginning and it has created for them numerous struggles. -->
+<!-- So my students begin their path towards engineering at a considerably younger age than that of other prospective engineering students.-->
+<!-- For this reason, I have seen many students who are not entirely sure they want to have a career in engineering from the beginning and it has created numerous struggles for them. -->
 <!-- This is the background from which I have prepared today's talk. -->
 
 ---
@@ -77,9 +77,9 @@ Information and Computer Engineering
 **71.8%** of all learners
 ###### UNESCO, [Education: From Response to Recovery](https://en.unesco.org/covid19/educationresponse). Accessed October, 2021.
 
-<!-- It is well-known that the Coronavirus pandemic of 2020 resulted in numerous school closures around the globe. -->
-<!-- In April, the number of simultaneous closures was at its peak with over 1.25 million students being affected by a school closure. That's 71.8% of all the learners around the world. -->
-<!-- Although schools were closing, they refused to close down entirely as most schools switched to some form of remote or online approach to teaching classes. -->
+<!-- Now, it is well-known that the Coronavirus pandemic of 2020 resulted in numerous school closures around the globe. -->
+<!-- In April, the number of simultaneous closures was at its peak with over 1.25 million students being affected by their schools closing either fully or partially. That's 71.8% of all the learners around the world. -->
+<!-- Although schools were closing, they refused to close down entirely as most schools switched to some form of remote or online approach to running classes. -->
 
 ---
 <!-- _footer: "" -->
@@ -95,8 +95,8 @@ Digital technology revolutionizing education:
 - Online communities of experts
 
 <!-- Fortunately, the educational technology for learning from a distance has been available for many years and improved over time. -->
-<!-- Various internet and software technologies have made high quality educational materials, information and knowlege, as well as the experts of each respective field available for free or low-cost to any ambitious enough to seek them out. -->
-<!-- In addition, educational software as become more sophisticated with integrated learning analytics features that provide personalized insights to the learner as well as teachers. -->
+<!-- Various internet and software technologies have made high quality educational materials, the information and knowlege they embody, as well as the experts of each respective field available for free or at a low-cost to anyone ambitious enough to seek them out. -->
+<!-- In addition, educational software as become more sophisticated with integrated learning analytics features that provide personalized insights for both the learner as well as the teacher. -->
 <!-- But the mere existence of these technologies is not enough to solve the issue of school closures for all students. -->
 
 ---
@@ -113,10 +113,10 @@ Affluent schools are more likely to:
 Massively Open Online Course (MOOC) participants are mostly college-educated.
 MOOC completion rates modestly correlate with educational attainment levels.
 
-<!-- Different schools, different communities, even different can countries have different levels of access and usage of revolutionary technologies due to varying socieconomic factors. -->
-<!-- Of course, affluent schools are more likely to be able to provide technology as computers and tablets to their students, but the digital divide goes beyond just the availability of financial resources. -->
-<!-- Affluent schools with easy access to computer technologies are more likely to use it for higher level cognitive activities such as modeling and simulation compared to rote drilling and practice at less privileged schools. -->
-<!-- Even when money is no issue as with free tools available onine, these are more likely applied to learning collaborative problem solving and new media literacies at schools that are already better off. -->
+<!-- Different schools, different communities, even different can countries have different levels of access and usage of these revolutionary technologies and that is due to various socieconomic factors. -->
+<!-- Of course, affluent schools are more likely affort the cost of providing technologies like computers and tablets to their students, but the digital divide goes beyond just the availability of financial resources. -->
+<!-- Affluent schools with easy access to computer technologies are more likely to use it for higher level cognitive activities such as modeling and simulation compared to rote drilling and practice in less privileged schools. -->
+<!-- Even when money is no issue as is the case with free tools available onine, such tools are more likely used in lessons for collaborative problem solving and new media literacies at schools that are already better off. -->
 <!-- Another telling fact about this "digital divide" is that the majority of Massively Open Online Course (MOOC) participants are mostly already college educated. So merely opening up college-level materials to the world has not allowed more people to become college educated. Rather, the already-educated have become more educated because of it. -->
 
 ---
@@ -133,8 +133,8 @@ Hansen and Reich examined socioeconomic status (SES) of HarvardX and MITx studen
 
 ###### Hansen, J. D., and Reich, J. (2015). Democratizing Education? Examining Access and Usage Patterns in Massive Open Online Courses. Science, 350(6265), 1245-1248. DOI: [10.1126/science.aab3782](https://doi.org/10.1126/science.aab3782)
 
-<!-- A study at Harvard analyzed the data of participants in HarvardX and MITx online courses, and it found that both participation and completion could be predicted by student socioeconomic status such as the average income of their neighborhood and the educational levels of their parents. -->
-<!-- This study reinforces the point that online and remote technologies for increasing access to learning are serving those who don't necessarily need easier access and failing to provide the additional support and opportunity for students who are most in need. -->
+<!-- A study at Harvard analyzed the data of participants in HarvardX and MITx online courses, and it found that both levels of participation and completion rates could be predicted by the socioeconomic status of students, such as the the educational levels of their parents and the average income of their neighborhoods. -->
+<!-- This study reinforces the point that online and remote technologies for increasing access to learning are serving those who don't necessarily need easier access and failing to provide additional support and opportunity for students who are most in need. -->
 
 --- 
 
@@ -150,11 +150,11 @@ Hansen and Reich examined socioeconomic status (SES) of HarvardX and MITx studen
 
 ###### Reich, J. (2020). Failure to Disrupt: Why Technology Alone Can’t Transform Education. Harvard University Press, 2020
 
-<!-- Justin Reich, who is Director of the Teaching Systems Lab at MIT, has done a lot of research into educational technology and he calls this phenomenon the "EdTech Matthew Effect". The name comes from a passage in the Gospel of Matthew in the Bible which says that whoever has will be given more to the point of abundance; whereas, those who have not, what they do have will be taken away from them. -->
+<!-- The Director of the Teaching Systems Lab at MIT, Justin Reich, has done a lot of research into educational technology and he calls this phenomenon the "EdTech Matthew Effect". The name comes from a passage in the Gospel of Matthew in the Bible which says that whoever has will be given more to the point of abundance; whereas, those who have not, what they do have will be taken away from them. -->
 <!-- He elaborates on the points he believes are reasons why the digital divide will only get bigger over time. -->
 <!-- The first is that technology is developed within cultural contexts that have inherent systems of inequality, and so those systems will similarly be embedded in the technological systems as well. -->
 <!-- The second is that people who have the means to take advantage of free technologies are not always the same as the people who are in need of it. -->
-<!-- The third is various forms of social exclusion create much stronger barriers to entry than any other forms of restriction to the technology itself. -->
+<!-- The third is that various forms of social exclusion create much stronger barriers to entry than any other forms of exclusion such as lack of to the technology itself. -->
 
 ---
 ![bg right:45% w:550px](images/MOOC_completion.png)
@@ -169,12 +169,12 @@ Low **persistence** and **completion rates** for MOOC students from less-develop
 
 ###### Kizilcec, R. F., Saltarelli, A. J., Reich, J., and Cohen, G. L. (2017). Closing global achievement gaps in MOOCs. Science, 355(6322), 251–52. DOI: [10.1126/science.aag2063](https://www.science.org/doi/10.1126/science.aag2063)
 
-<!-- As an example, let's look at social identity threat which is the fear of being seen as less capable than others because of the group to which you belong. -->
-<!-- MOOC participants from less-developed countries according to the United Nations Human Development Index are less likely to complete an online course than their counterparts in more-developed countries. -->
-<!-- Researchers experimented with "social belonging interventions" as brief reflection activities at the start of online courses and then followed the activities of the students through to the end. -->
-<!-- They found that, in courses with the social belonging interventions, the students from less-developed countries performed as well as students from more-developed countries; whereas, courses without the intervention continued to see a gap. -->
-<!-- These interventions were short writing assignments designed to acknowledge the feeling that one does not belong in the course and hear testimonials from other students that had overcome those feelings. -->
-<!-- The researches concluded that "Psychological and learning sciences can can help turn an accessible educational experience into an equitable one." -->
+<!-- As an example, let's look at "social identity threat" which is the fear of being seen as less capable than others because of the group you belong to. -->
+<!-- MOOC participants from less-developed countries (according to the United Nations Human Development Index) are less likely to complete an online course than their counterparts in more-developed countries. -->
+<!-- Researchers experimented with what they called "social belonging interventions" in the form of brief reflection activities for students to complete at the start of online courses. They then followed the activities of the students through to the end. -->
+<!-- The researchers found that, in courses with the social belonging interventions, the students from less-developed countries performed as well as students from more-developed countries; whereas, courses without the intervention continued to see a gap. -->
+<!-- These interventions were short writing assignments designed to acknowledge the feeling that one does not belong in the course and to let students hear testimonials from other students that had overcome those feelings. -->
+<!-- The researchers concluded that "Psychological and learning sciences can can help turn an accessible educational experience into an equitable one." -->
 
 ---
 
@@ -192,7 +192,7 @@ Factors of engagement include student-perceived **value of outcome** and **cost 
 <!-- Now, social exclusion is such a powerful obstacle precisely because it undermines an individual's  motivation, which brings us to the central point of this talk. -->
 <!-- While other forms of exclusion can be more obvious, social exclusion presents an obstacle through the psychological burden it places on the individual experiencing it, which in turn increases their perceived cost of engagement on task. -->
 <!-- In the literature we often see motivation expressed in terms of approach motivation and avoidance motivation where each can be defined by whether or not the achievement value outweighs its cost. In this talk, I would like to focus on the source of those perceptions, whether they stem from the individual's interests and enjoyment, or their sense of identity and responsibility to society. -->
-<!-- An individual motivated by passion would pursue an endeavor for reason related to pleasure or learning and they would avoid a task if they feel it would make them bored or hurt their confidence. -->
+<!-- An individual motivated by passion would pursue an endeavor for reason related to pleasure or learning and they would avoid a task if they expect to feel bored or see it as a threat to their self-confidence. -->
 <!-- On the other hand, an individual motivated by purpose would pursue endeavors that resonate with their self-identity or provide some benefit to their social group, and they would avoid a task that makes them feel alien within the social context or provides little gain towards their larger goals. -->
 
 ---
@@ -208,9 +208,9 @@ Factors of engagement include student-perceived **value of outcome** and **cost 
 - Motivated by social contribution and expectation, ***PURPOSE***
 
 <!-- We can see cultural differences in the way societies encourage these different forms of motivation. -->
-<!-- In individualistic societies, it is believed that students with stronger insterests, enjoyment, and confidence for a subject will have greater achievements in their studies. The locus of motivation is within the individual based on their interests or passion. -->
-<!-- In more collectivistic societies, the belief is that students with more social connections and better relationships with supportive other will have higher achievements. Here the source of motivation is in the expectations of the people around the individual or their obligation not to disappoint close friends or family. -->
-<!-- If passion is a strong Western concept, then I view purpose as its counterpart in Eastern societies. And this has recently been directly studied in research. -->
+<!-- In individualistic societies, it is believed that students with stronger insterests, enjoyment, and confidence for a subject will have greater achievements in their studies. So, the locus of motivation is within the individual based on their interests or passion. -->
+<!-- In more collectivistic societies, the belief is that students with more social connections and better relationships with supportive others will have higher achievements. Here the source of motivation is in the expectations of the people around the individual and their obligation to not to disappoint close friends or family. -->
+<!-- If passion is a strong Western concept, then we can say purpose as its counterpart in Eastern societies. And in fact, this has been directly studied in recent research. -->
 
 ---
 
@@ -219,15 +219,15 @@ Factors of engagement include student-perceived **value of outcome** and **cost 
 Li et al. found passion was less of a predictor for achievement in collectivistic societies than in Western, educated, industrialized, rich, and democratic (WEIRD) societies.
 - The role of passion should not be overemphasized in diverse learning environments.
 - Researchers need measures of interdependent motivation for collectivistic cultures:
-  * Perceived norms in the classroom
-  * Sense of belonging
-  * Responsibility to one's family
+  - Perceived norms in the classroom
+  - Sense of belonging
+  - Responsibility to one's family
 
 ###### Li, X. Han, M., Cohen, G. L., Markus, H. R. (2021). Passion matters but not equally everywhere: Predicting achievement from interest, enjoyment, and efficacy in 59 societies. Proceedings of the National Academy of Sciences Mar 2021, 118 (11) e2016964118; DOI: [10.1073/pnas.2016964118](https://doi.org/10.1073/pnas.2016964118)
 
 <!-- Researchers at Stanford University and the Chinese University of Hong Kong analyzed PISA datasets from 2009 to 2015. (PISA is the Program for International Student Assessmeent by the OECD, or Organization for Economic Co-operation and Development. It measures the mathematics, science, and reading performance of 15-year old students around the world.) -->
-<!-- These datasets from 59 societies included about half of what they called WEIRD societies: Wester, educated, industrilized, rich and democratic. -->
-<!-- Using the PISA dataset variables of "interest", "enjoyment", and "efficacy" to measure student passion, they discovered that passion was a greater predictor of achievement and explained greater variance in achievement by 37% compared to 16% in collectivisitic societies. -->
+<!-- These datasets from 59 societies included about half of what they called WEIRD societies: Western, educated, industrilized, rich and democratic. -->
+<!-- Using variables in the PISA dataset of "interest", "enjoyment", and "efficacy" to measure student passion, they discovered that passion was a greater predictor of achievement and also explained greater variance in achievement by 37% compared to 16% in collectivisitic societies. -->
 <!-- In collectivistic societies, parental emotional support was a better predictor than passion, which suggests a stronger orientation towards social purpose as a source of motivation. -->
 
 ---
@@ -244,10 +244,10 @@ The *motivational climate* provides clues for students to orient themselves.
 
 ###### Ames, C. (1992). Achievement goals and the classroom motivational climate. In D. H. Schunk & J. L. Meece (Eds.), Student perceptions in the classroom (pp. 327–348). Lawrence Erlbaum Associates, Inc.
 
-<!-- In educational psychology, Achievement Goal Theory has parallels to passion and purpose in the way it describes student engagement on task. But I view passion and purpose as a kind of macro-motivation embedded in the social context, or motivational climate, of school and society. -->
+<!-- In educational psychology, we can see parallels to passion and purpose with Achievement Goal Theory in the way it describes student engagement on task. But I view passion and purpose as a kind of macro-motivation embedded in the social context, or the motivational climate, of school and society. -->
 <!-- A student driven by passion might put forth effort to have fun or develop their skills. On the other hand, a student driven by purpose would do so because they have expectations to meet for themselves or others. -->
 <!-- In this sense, passion and purpose describe WHY a student is involved in a task, while Achievement Goal Theory describes HOW. -->
-<!-- How they engage is reflected in the dialog surrounding the task (types and levels of goals, nature of feedback, evaluation criteria, and recognition of accomplishment) which can be focused on the task itself or on the individual's ability. -->
+<!-- How they engage is reflected in the dialog surrounding the task such as the types and levels of goals being pursued, the nature of feedback given to the student, evaluation criteria for judging the accomplishment of a goal, and the way the accomplishment is recognized. This dialog can focus on the task itself or on the individual's ability. -->
 <!-- For example, in Japanese culture, there is a strong emphasis on doing one's best (頑張る) -->
 <!-- In situations where other cultures will say "Good luck!", the Japanese say "Do your best!" and personal satisfaction is often derived from the effort, regardless of the outcome. -->
 <!-- Even when a student is not able to achieve a desired goal, they are reassured that they put in their best effort. -->
@@ -261,14 +261,14 @@ Institutes of higher education must handle two competing objectives:
 Promoting holistic learning and accrediting student accomplishments
 
 The role of grades is influenced by **cultural assumptions**:
-* Favorable evaluation motivates students to work harder.
-* Grading is a fair, reliable, and objective system for measuring accomplishments.
-* Students and teachers must be accountable for proof of achievements.
+- Favorable evaluation motivates students to work harder.
+- Grading is a fair, reliable, and objective system for measuring accomplishments.
+- Students and teachers must be accountable for proof of achievements.
 
-<!-- One of the issues that institutes of higher education naturally must deal with is a contention between two competing objectives: promoting authentic learning and assessing students with grades -->
-<!-- A highly competitive university for example may put a stronger emphasis on the role of grades in order to distinguish their students. -->
+<!-- This brings me to highlight one of the issues that institutes of higher education naturally must deal which is the contention between two competing objectives: promoting authentic learning and giving grades to assess students -->
+<!-- A highly competitive university for example may put a stronger emphasis on the role of grades in order to distinguish their students further. -->
 <!-- The degree to which grades play a role in learning is influenced by cultural assumptions about grades and assessment. -->
-<!-- These assumptions may come from either culture of the social context or the culture of the school, but they may not always be true. -->
+<!-- These cultural assumptions may come from either the culture of the society or the culture of the school, but they may not always be true. -->
 <!-- For example, a student who consistently receives good grades may become confident in their ability and not put in as much effort as a result. Or grading systems may have inherent biases that favor one type of student over another. -->
 
 ---
@@ -285,10 +285,11 @@ Students may be under pressure to perform for various reasons:
 Consequences include anxiety, cheating, a malformed self-concept, intellectual dependency on teacher approval, and undermined intrinsic motivation to learn.
 
 <!-- Ultimately, putting a strong emphasis on the role of grades or overinflating their value may result in grade obsession among students. -->
-<!-- When grades are strongly tied to scholarships, the perceived employability of the student, or the expectations of others, there is a danger that the student will forget the purpose of school as a place of learning. -->
-<!-- And obsession over the pursuit of grades can hurt their self-concept as a learner, make them dependent on the teacher to tell them what knowledge is allowed, or undermine the intrinsic pleasure of learning new things. -->
-<!-- This is why a sense of passion and purpose is necessary for students who may feel like they are caught in an absurd rat race when their grades seem to have little meaning outside the school system which conceived them. -->
-<!-- But even in meaninglessness there is hope. To that point, I want to talk about the Myth of Sysiphus... -->
+<!-- When grades are strongly tied to scholarships, the perceived employability of students, or the expectations of close others, there is a danger that the student will forget the purpose of school as a place of learning. -->
+<!-- And obsession over the pursuit of grades can have terrible consequences such as hurting their self-concept as a learner, making them dependent on the teacher to tell them what knowledge is allowed, or undermining the intrinsic pleasure of learning new things. -->
+<!-- This is why a sense of passion and purpose is necessary for students who may feel like they are caught in an absurd rat race when their grades seem to have little meaning outside the school system in which they were awarded. -->
+<!-- <pause> -->
+<!-- But even in meaninglessness there is hope. To that point, I want to introduce you to the Myth of Sysiphus... -->
 
 ---
 <!-- _paginate: false -->
@@ -309,12 +310,12 @@ Iterating over things gives new perspective each time.
 <!-- Sysiphus was a man who lived with such great love and passion for life, he tricked the gods twice in order to cheat death. -->
 <!-- As a result, the gods condemned him to an eternity pushing a boulder up a hill only for it to roll back down again. -->
 <!-- According to Camus, Sysiphus rises above his punishment by facing the absurdity of it and realizing its inherent meaninglessness. -->
-<!-- Doing so frees him from the drudgery and allows him to create his own meaning and rediscover passion in the activity. -->
-<!-- The lack of inherent meaning in things allows us to define our own purpose and become truly happy in our pursuits. -->
-<!-- Camus argues that even though Sisyphus is trapped in a repetitive structure, within that structure he is free.  -->
-<!-- “His fate belongs to him. His rock is his thing. . . he knows himself to be the master of his days.” -->
-<!-- This reminds me of a phrase "Ichi-go Ichi-e" (一期一会) which means exact moments can never be repeated and so should be cherished as once-in-a-lifetime experiences. -->
-<!-- I think this is beautiful precisely because it speaks to our own agency over our sense of purpose. If the world won't give us meaning for our lives, then we are free to make of it what we will and find it in that which is most important to us. -->
+<!-- Doing so frees him from the drudgery, allowing him to create his own meaning and rediscover a passion in the activity. -->
+<!-- So the lack of inherent meaning in things allows us to define our own purpose and become truly happy in our pursuits. -->
+<!-- Camus argues that even though Sisyphus is trapped in a repetitive structure, it is within that structure that he is free.  -->
+<!-- To quote, “His fate belongs to him. His rock is his thing. . . he knows himself to be the master of his days.” -->
+<!-- This reminds me of a Japanese phrase "Ichi-go Ichi-e" (一期一会) which means that no two moments are exactly the same--each exact moment can never be repeated--and so we should cherish each moment as a once-in-a-lifetime experience. -->
+<!-- I think this is beautiful in the way that it speaks to our own agency for choosing a sense of purpose. If the world will not give us meaning, then we are free to make of it what we will and find it in that which is most important to us. -->
 
 ---
 <!-- _paginate: false -->
@@ -324,18 +325,18 @@ Iterating over things gives new perspective each time.
 # "Do What You Love" (DWYL) Advocation
 
 Assumptions behind DWYL advice for students:
-* All students have the potential to be successful if they just find their passion and work hard at it.
-* Everybody has multiple career options and full agency regarding the direction of their career.
-* All work should serve a passion or eventually evolve to that point.
+- All students have the potential to be successful if they just find their passion and work hard at it.
+- Everybody has multiple career options and full agency regarding the direction of their career.
+- All work should serve a passion or eventually evolve to that point.
 
 ###### Stebleton, M. J. (2019). Moving Beyond Passion: Why “Do What You Love” Advice for College Students Needs Reexamination, Journal of College and Character, 20(2), 163-171. DOI: [10.1080/2194587X.2019.1591289](https://doi.org/10.1080/2194587X.2019.1591289)<br> Photo Credit: Linda A. Cicero/Stanford News Service
 
-<!-- In his 2005 commencement address at Standford University, Steve Jobs spoke about pursuing one's passion when he told the graduates to find what they love. -->
-<!-- Especially in America which follows an independent model of motivation, discovering one's passion is viewed as the golden key that unlocks a happy and successful life and career. -->
-<!-- While this is great advice as we previously established that passion is necessary, it only covers half of the picture. For many, building a sense of purpose is a much more practical endeavor than discovering a one true passion. -->
-<!-- This is because students who view passion as inherently individualistic and privileged may respond better to an idealistic purpose that emphasizes a collective meaning. -->
+<!-- Steve Jobs spoke about pursuing one's passion in his 2005 commencement address at Standford University when he told the graduates to find what they love. -->
+<!-- This idea of doing what you love is viewed as the golden key that unlocks a happy and successful life and career, especially in American culture which strongly follows an independent model of motivation. -->
+<!-- While this is great advice as I previously mentioned about how passion is necessary, it only covers half of the picture. For many, building a sense of purpose is a much more practical endeavor than discovering a one true passion. -->
+<!-- This is because students who view pursuing passion as inherently individualistic and privileged may respond better to an idealistic purpose that emphasizes a collective meaning. -->
 <!-- In addition, the amount of time and freedom to explore one's career options may not be available to students who have limited resources, student debt, or obligations towards family. -->
-<!-- Students may not be fully aware of the messages and circumstances influencing their decisions either. It may be worthwhile for them to reflect on their values, skills, and knowlege about future prospects in an effort to pursue their interests, but discoverying a "true passion" is simply not necessary for many depending on the social context of their lives. -->
+<!-- And students may not be fully aware of the messages and circumstances influencing their decisions either. For them, it may be worthwhile to reflect on their values, skills, and knowlege about future prospects in an effort to better understand their interests, but discoverying a "one true passion" is simply not necessary depending on the social contexts of their lives. -->
 
 ---
 
@@ -353,10 +354,10 @@ Students approach subjects with more enthusiasm and persistence when they believ
 ###### O'Keefe, P. A., Dweck, C. S., and Walton, G. M. (2018). Implicit Theories of Interest: Finding Your Passion or Developing It? Psychological Science 2018, 29(10), 1653–1664. DOI: [10.1177/0956797618780643](https://doi.org/10.1177/0956797618780643)
 
 <!-- Even in terms of pursuing a passion, there are nuances around how one my go about doing so. -->
-<!-- A band of researchers including Carol Dweck, who is the American Psychologist famous for her theory of intelligence on fixed vs. growth mindsets, decided to test mindsets for implicit theories of interest as well. -->
-<!-- They performed five studies that examined students with a fixed mindset vs a growth mindset towards their interests. -->
-<!-- This means that a fixed mindset views a person's interests as a kind of fixed trait that doesn't change whereas a growth mindset sees interests as something that can be developed through effort. -->
-<!-- From the results of the studies, we can see evidence that the fixed mindset is like an identity statement that reflects how students view themselves and their own abilities. The growth mindset, on the other hand, reflects a greater resilience towards maintaining interests. And since interest is strongly connected to intrinsic motivation, this research suggests that promoting a growth mindset should serve to benefit the well-being of students through improved motivation. -->
+<!-- A group of researchers decided to examine mindsets for implicit theories of interest. They included Carol Dweck, who is the American Psychologist famous for her theory of intelligence on fixed vs. growth mindsets. -->
+<!-- They performed five studies that examined how students with a fixed mindset approached various situations related to their interests and compared them to students with a growth mindset. -->
+<!-- Here, a fixed mindset views interests as a kind of fixed trait that doesn't change whereas a growth mindset sees interest as something that can be developed through effort. -->
+<!-- From the results of these studies, we can see evidence that having a fixed mindset is like an making an identity statement about oneself and one's abilities. The growth mindset, on the other hand, reflects a greater resilience towards gaining new interests and maintaining existing ones in the face of difficulty. And since interest is strongly connected to intrinsic motivation, this research suggests that promoting a growth mindset would serve to benefit the well-being of students through improved motivation. -->
 
 ---
 
@@ -370,10 +371,10 @@ An openness to exploration has shown better motivation, retention, and cost perc
 ###### Perez, T., Cromley, J. G., and Kaplan, A. (2014). The role of identity development, values, and costs in college STEM retention. Journal of Educational Psychology, 106(1), 315–329. DOI: [10.1037/a0034027](https://doi.org/10.1037/a0034027)
 
 <!-- Now, a student's mindset may reflect a deeper degree of their exploration or committment to a personal identity. -->
-<!-- To say someone has a growth mindset suggests they are open to new information and can apply it to their way of thinking regarding identity-relevant tasks. -->
-<!-- On the other hand, a fixed mindset may reflect a committment to ideas about oneself having certain traits and abilities. -->
-<!-- Researchers in another study have shown that an exploratory attitude in STEM subjects is connected to having greater perceptions of competence and value for the subject while a lack of exploration is related to lower confidence and a greater sense of cost (effort, psychological burden) for engaging in STEM. -->
-<!-- In the study, these factors also contributed to the retention rates of students in their STEM majors with exploratory status being connected to a higher likelihood to continue in the program. -->
+<!-- To say someone has a growth mindset suggests they are open to new information and can apply it to their way of thinking regarding identity-relevant tasks. In other words, they are said to have an exploratory identity status. -->
+<!-- On the other hand, a fixed mindset may reflect a committment to the idea that one has certain traits and abilities which do not change, which reflects a normative identity status. -->
+<!-- Relevant to these ideas, researchers in another study have shown that students with an exploratory attitude towards STEM subjects also have greater perceptions of competence and value for the subject. This in turn increases the retention rates of these students for the subject. -->
+<!-- On the other hand, a lack of exploration was shown to be related to lower self-confidence and a greater sense of cost in terms of effort or psychological burden for engaging in the STEM subject. Those students were also more likely to say they were thinking of leaving STEM studies altogether. -->
 
 ---
 
@@ -384,7 +385,7 @@ An openness to exploration has shown better motivation, retention, and cost perc
 * Passion and purpose can fulfill our needs for intrinsic meaning while living in a silent, repetitive world.
 * Students who persist in their studies have greater confidence, are more open to new experiences, and have a higher potential for intrinsic motivation in their pursuits.
 
-<!-- Before introducing a couple of real-world examples, I would like to summarize the concepts we have discussed so far. -->
+<!-- In the last few slides, I would like to introduce a couple of real-world examples. But before I do that, let's quickly summarize the concepts discussed so far. -->
 
 ---
 <!-- _paginate: false -->
@@ -401,12 +402,14 @@ International College of Technology
 
 :arrow_right: A strict goal helped her to explore her interests.
 
-<!-- The first case I would like introduce is that of Afaf Alaa -->
+<!-- Now the first case I would like introduce is that of Afaf Alaa. -->
 <!-- Afaf is a member of the Design and Fabrication Club at International College of Technology where students are allowed to work on projects of their own choosing. -->
 <!-- She enjoyed the freedom to work on whatever she liked, but had difficulty narrowing down her many interests. -->
-<!-- She wanted to learn about video editing but thought that studying it on its own would be boring, so Afaf joined a competition to have a deadline. She joined the Breakthrough Junior Challenge contest where teenagers produce a 3-minute video to communicate some concept in science. -->
-<!-- The competition gave her a purpose which she followed by creating a Gantt chart to plan out the process of choosing a topic, scripting, filming and editing. -->
-<!-- Passion alone was not enough for Afaf. She needed to orient herself towards a purposeful goal to be productive. -->
+<!-- She wanted to learn about video editing but thought that studying it on its own would be boring, so Afaf joined a competition in order to have a deadline that would motivate her to work. She joined the Breakthrough Junior Challenge contest where teenagers compete by producing a 3-minute video that communicates some scientific concept. -->
+<!-- Afaf created her own original video that discussed the problem of space debris, including the concepts of gravity, momentum and orbit. -->
+<!-- Joining the competition gave her a purpose which she followed by creating a Gantt chart to plan out the process of choosing a topic, scripting it, filming and editing the final video. -->
+<!-- And it did not matter to her whether she became a finalist in the challenge. She was happy with the final product and full of pride from all the positive feedback she got from her teachers and friends. -->
+<!-- Passion alone was not enough for Afaf. She oriented herself towards a purposeful goal and achieved a satisfying outcome. -->
 
 ---
 <!-- _paginate: false -->
@@ -426,12 +429,11 @@ Approx. Total Winnings: $585,359
 ###### Photo Credit: [TOPANGA](https://www.openrec.tv/live/ovrdx3egy8j)
 
 <!-- The next case is that of Hajime Taniguchi, better known as Tokido. -->
-<!-- Tokido was driven by his studies and focused strongly on his research in school -->
-<!-- His approach was not to ask "why?" when approaching a task, but instead to set a goal and find the most efficient way to proceed. He enjoyed this approach that emphasizes efficiency in his research which gave him a purpose developing artifical bones and organs because it made him feel like he was contributing to society. -->
-<!-- He even won a national award for his capstone research thesis. -->
+<!-- Tokido was driven by his studies in school and strongly focused on his undergraduate research at the University of Tokyo. -->
+<!-- He always approaches tasks not by asking "why?", but instead by setting a goal for himself and finding the most efficient way to proceed. Following this approach in his research gave him a purpose as he was developing artifical bones and organs for humans. He felt like he was contributing to society and even won a national award for his capstone research paper. -->
 <!-- But this heavy focus on his research meant that he did not study for graduate school exams and as a result, he could not score high enough to get into the graduate lab that he wanted. -->
 <!-- The lab he ended up in was not a good fit for him and he quickly became unsatisfied not being able to contribute to their work. -->
-<!-- At that time, pro gaming was growing rapidly and he saw other fighters of lower skill gaining recognition. -->
+<!-- At that time, the pro gaming industry was growing rapidly and he saw other fighters of lower skill gaining recognition. -->
 <!-- So after graduating, he decided to follow his passion for games and reimagined his purpose to become the world's top fighting game champion. -->
 <!-- When Tokido faultered and lost a sense of purpose, his passion drove him to discover a new one. -->
 
@@ -446,15 +448,17 @@ Approx. Total Winnings: $585,359
 * Consider reflection activities that relate subject matter to students' sense of purpose
 * Maintain a balance between language of passion and language of purpose
 
-<!-- Finally, I would like to offer some advice based on the discussion here today which I think every teacher can implement in their own classes. -->
+<!-- Finally, I would like to leave you with some advice based on the discussion here today which I think every teacher can implement in their own classes. -->
 <!-- First is to recognize that cultural differences also affect motivational differences. We should foster a sense of belonging among our students. -->
-<!-- Create a motivational context by communicating what is expected of the students as they engage on task. -->
+<!-- Second, create a motivational context by communicating what is expected of the students as they engage on task. -->
 <!-- Next is to help students focus on the learning side of assessment through self-reflection and formative feedback. -->
 <!-- Remind your students that interests as well as intelligence can be developed like a skill. -->
-<!-- If possible, give opportunities for self-reflection into one's interests, values, skills, occupational knowledge, and the future of work with the goal of discovering a self-purpose. This could especially serve students who have a limited ideas of their possibilities. -->
-<!-- Finally, use a balance of language for both passion and purpose so your students can find something meaningful in whichever feels most appropriate for them at that time in their lives. -->
+<!-- If possible, give opportunities for self-reflection into one's interests, values, skills, occupational knowledge, and the future of work with the goal of discovering a self-purpose. This could especially serve students who have a limited ideas of their own possibilities. -->
+<!-- Finally, use a balance of language for both passion and purpose when discussing motivation for assignments so your students can hopefully find something meaningful in whichever feels most appropriate for them at that time in their lives. -->
 
 ---
 
 # <!-- fit --> Thank You
  View these slides at https://bit.ly/CDIOAsia2021
+
+ <!-- It has been a pleasure giving this talk for you today. If you are interested, you can find these slides online at the address shown on screen. Thank you very much! -->
