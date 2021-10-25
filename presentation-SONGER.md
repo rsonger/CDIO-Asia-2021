@@ -17,6 +17,7 @@ International College of Technology, Kanazawa
 
 ### ![h:70px](images/CDIO_logo.png) &nbsp;&nbsp;&nbsp;[2021 CDIO Asian Regional Meeting](https://cdio2021.ack.edu.kw/)&nbsp;&nbsp;&nbsp; ![h:70px](images/ACK_logo.png)
 ### Australian College of Kuwait, 26-28 October
+View these slides at https://bit.ly/CDIOAsia2021
 
 ---
 <!-- _class: profile -->
@@ -48,12 +49,12 @@ Information and Computer Engineering
 # <br>
 
 ### "Fostering Global Innovators"
-* 5-year High School and Junior College
-* Student ages: 15 to 20 years
+- 5-year High School and Junior College level CDIO-based STEAM Education
+- Students aged 15 to 20 years transfer to university at 3rd-year level
 
 ### Department of Science and Technology
-* CDIO-based STEAM Education
-* Specialized Engineering Tracks from 3rd year
+- Integrated engineering experiences in first three years
+- Specialized engineering tracks from 4th year
 
 ---
 <!-- _footer: "" -->
@@ -66,6 +67,7 @@ Information and Computer Engineering
 ###### UNESCO, [Education: From Response to Recovery](https://en.unesco.org/covid19/educationresponse). Accessed October, 2021.
 
 ---
+<!-- _footer: "" -->
 ![bg left:40%](images/digital_world.jpg)
 
 # EdTech to the Rescue
@@ -84,9 +86,9 @@ Digital technology revolutionizing education:
 Socioeconomic factors influence ***access*** and ***usage*** of emerging technologies.
 
 Affluent schools are more likely to:
-* Provide computers/tablets for students to use
-* Use computers for modeling/simulation activities vs. drills/practice
-* Apply **free** web tools for collaborative problem solving & new media literacy
+- Provide computers/tablets for students to use
+- Use computers for modeling/simulation activities vs. drills/practice
+- Apply **free** web tools for collaborative problem solving & new media literacy
 
 Massively Open Online Course (MOOC) participants are mostly college-educated.
 MOOC completion rates modestly correlate with educational attainment levels.
@@ -97,9 +99,9 @@ MOOC completion rates modestly correlate with educational attainment levels.
 
 Hansen et al. examined socioeconomic status (SES) of HarvardX and MITx MOOC students.
 (SES includes parents education level, neighborhood income, and neighborhood education)
-* MOOC students were mostly from high-SES neighborhoods
-* Certificate completion rates were highest for high-SES students as well
-* These patterns were particularly strong among adolescents
+- MOOC students were mostly from high-SES neighborhoods
+- Certificate completion rates were highest for high-SES students as well
+- These patterns were particularly strong among adolescents
 
 > "Closing gaps with digital learning resources requires targeting innovation towards the students most in need of additional support and opportunity."
 
@@ -130,115 +132,29 @@ Low **persistence** and **completion rates** for MOOC students from less-develop
 
 ##### † According to the [United Nations Human Development Index](http://hdr.undp.org/en/content/human-development-index-hdi)
 
-###### Kizilcec, R. F., Saltarelli, A. J., Reich, J., & Cohen, G. L. (2017). [Closing global achievement gaps in MOOCs](https://www.science.org/doi/10.1126/science.aag2063). Science, 355(6322), 251–52.
+###### Kizilcec, R. F., Saltarelli, A. J., Reich, J., and Cohen, G. L. (2017). Closing global achievement gaps in MOOCs. Science, 355(6322), 251–52. DOI: [10.1126/science.aag2063](https://www.science.org/doi/10.1126/science.aag2063)
 
 <!-- Researchers experimented with "social belonging interventions" as brief reflection activities at the start of the course. -->
 <!-- "Psychological and learning sciences can can help turn an accessible educational experience into an equitable one." -->
 
 ---
 
-# Social Exclusion Undermines Motivation
+# Passion or Purpose?
 
 Factors of engagement include student-perceived **value of outcome** and **cost to achieve it**.
-- **Approach Motivation**: When a high perceived value outweighs the cost 
-- **Avoidance Motivation**: When cost (effort, identity threat) outweighs perceived value 
+|  | Passion | Purpose |
+| :---: | --- | --- |
+| **Value of <br>Outcome** | - Personal interest & enjoyment<br>- Mastery, growth and learning<br>- Building self-efficacy | - Sense of identity/self-worth<br>- Status and recognition<br>- Contribution to family/society |
+| **Cost of <br>Achievement** | - Boredom and irrelevance<br>- Mistakes hurt self-confidence | - Experience of social exclusion<br>- Wasted time on little progress |
 
-- **Intrinsic Motivation**: The activity itself is valuable (enjoyment, mastery)
-- **Extrinsic Motivation**: Some other reward can be gained (money, recognition) 
+* **Approach Motivation**: When the perceived **value** outweighs the **cost** 
+* **Avoidance Motivation**: When the perceived **cost** outweighs the **value** 
 
----
-
-# Achievement Goal Theory
-
-![h:440px](images/achievement_goal.png)
+<!-- Social exclusion is so powerful precisely because it can undermine other motivational factors -->
 
 ---
 
-# Student Grade Obsession
-
-Performance-oriented achievement driven by extrinsic rewards can be disastrous.
-Students may be under pressure to perform for various reasons:
-- Achieve qualifications (i.e., scholarships)
-- Improve employability
-- Live up to the expectations of one's teachers, parents, and/or self
-
-Consequences include anxiety, cheating, a malformed self-concept, intellectual dependency on teacher approval, and undermined intrinsic motivation to learn.
-
-<!-- Ultimately, grade obsession can occur as an extreme result of the operant conditioning inherent to point-based rewards -->
-
----
-
-# The Paradox of Higher Education
-
-Cultural assumptions can turn institutes of learning into hierarchical structures of self-worth.
-
-- Favorable evaluation motivates students to work harder
-- Grading is a fair, reliable, and objective system for measuring accomplishments
-- Students and teachers must be accountable for proof of achievements
-
----
-<!-- _footer: "" -->
-![bg left fit](images/dopamine.jpg)
-
-# Behavioral Reinforcement
-
-The human mind learns to predict rewards through dopamine responses.
-Over time, the expectation replaces the reward itself in terms of efficacy.
-When this prediction fails, a negative signal weakens the connection.
-
-###### Image Credit: Rebecca Clements, [Science in the News](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)
-
----
-![bg contrast:130% right:48% cover](images/sysiphus.png)
-
-# The Myth of Sysiphus
-
-***The Absurd***:
-We struggle to understand our purpose in a world that offers no answers.
-Repetition is meaningless as it gets us nowhere.
-
-***The Antidote***:
-The lack of a *given* meaning allows for *interpreted* meaning.
-Each iteration offers a new perspective.
-
-
-<!-- Albert Camus believed that in a world with no clear meaning or purpose, we must conquer our own fates. -->
-<!-- In his essay 'The Myth of Sysiphus', he describes a mythological figure who became a hero of the absurd. -->
-<!-- Sysiphus was a man who lived with such great love and passion for life, he tricked the gods twice to cheat death. -->
-<!-- As a result, the gods condemned him to push a boulder up a hill only for it to roll back down again for all eternity. -->
-<!-- According to Camus, Sysiphus rises above his punishment by facing the absurdity of it and realizing its meaninglessness. -->
-<!-- Doing so frees him from the drudgery and allow him to create his own meaning/rediscover passion in the activity. -->
-<!-- The lack of inherent meaning in things allows us to define our own purpose and become truly happy in our pursuits. -->
-<!-- Camus argues that even though Sisyphus is trapped in a repetitive structure, within that structure he is free.  -->
-<!-- “His fate belongs to him. His rock is his thing. . . he knows himself to be the master of his days.” -->
-<!-- The Japanese have a phrase "Ichi-go Ichi-e" (一期一会) which means exact moments can never be repeated and so should be cherished as once-in-a-lifetime experiences. -->
-
----
-
-# Finding Your Passion: <br>Growth Mindset Vs. Fixed Mindset
-
-Students who believe their interests to be fixed:
-- are less engaged with topics outside their existing interests,
-- believe passions provide limitless motivation without difficulties, and
-- disengage faster when potentially new interests became difficult.
-
-*There are many similarities between a growth mindset and an exploratory identity.*
-
-###### O'Keefe, P. A., Dweck, C. S., Walton, G. M. (2018). Implicit Theories of Interest: Finding Your Passion or Developing It? Psychological Science 2018, Vol. 29(10) 1653–1664. <br>DOI: [10.1177/0956797618780643](https://doi.org/10.1177/0956797618780643)
-
-<!-- A band of researchers including Carol Dweck, the American Psychologist famous for her theory of intelligence, decided to test the theory for interests as well. -->
-<!-- Five studies examined students with a fixed mindset vs growth mindset regarding their interests. -->
-<!-- "The fixed mindset is an identity statement." -->
-
----
-
-# Identity Status Theory
-
-![](images/identity_status.png)
-
----
-
-# Models of Motivation Rooted in Culture
+# Cultural Models of Motivation
 
 **Independent model of motivation** in individualistic "Western" societies
 - Achievement is higher in students with stronger interest, enjoyment, and confidence
@@ -246,15 +162,15 @@ Students who believe their interests to be fixed:
   
 **Interdependent model of motivation** in collectivistic "Eastern" societies
 - Achievement is higher for students with strong connections to supportive others
-- Motivated by social expectation and contribution, ***PURPOSE***
+- Motivated by social contribution and expectation, ***PURPOSE***
 
 ---
 
 # Predicting Achievement from Passion
 
 Li et al. found passion was less of a predictor for achievement in collectivistic societies than in Western, educated, industrialized, rich, and democratic (WEIRD) societies.
-* The role of passion should not be overemphasized in diverse learning environments.
-* Researchers need measures of interdependent motivation for collectivistic contexts:
+- The role of passion should not be overemphasized in diverse learning environments.
+- Researchers need measures of interdependent motivation for collectivistic cultures:
   * Perceived norms in the classroom
   * Sense of belonging
   * Responsibility to one's family
@@ -267,7 +183,155 @@ Li et al. found passion was less of a predictor for achievement in collectivisti
 <!-- In collectivistic socieites, parental emotional support out-performed passion indicators -->
 
 ---
-![bg right:40% cover](images/tokido.png)
+
+# Motivation in Educational Psychology
+
+Carol Ames' **Achievement Goal Theory** describes task orientation and ego orientation.
+- **Task orientation** focuses on completing some task to the best of one's ability.
+  - Associated with positive cognitive, affective, and behavioural outcomes
+- **Ego orientation** focuses on one's performance relative to that of others.
+  - Outcomes suffer when perceived competence is low
+
+The *motivational climate* of the classroom sets the stage for student orientations.
+
+###### Ames, C. (1992). Achievement goals and the classroom motivational climate. In D. H. Schunk & J. L. Meece (Eds.), Student perceptions in the classroom (pp. 327–348). Lawrence Erlbaum Associates, Inc.
+
+<!-- I view passion and purpose as a kind of macro-motivation embedded in the motivational climate of school or society. -->
+<!-- A student driven by passion might put forth effort to have fun or develop their skills. -->
+<!-- On the other hand, a student driven by purpose would do so because they have expectations to meet for themselves or others. -->
+<!-- So while passion and purpose can describe WHY a student is involved in a task, goal orientation describes HOW. -->
+<!-- How they engage is reflected in the dialog surrounding the task (types and levels of goals, nature of feedback, evaluation criteria, and recognition of accomplishment) which can be focused on the task itself or the individual's ability. -->
+<!-- For example, in Japanese culture, there is a strong emphasis on doing one's best (頑張る) -->
+<!-- In situations where other cultures will say "Good luck!", the Japanese say "Do your best!" and satisfaction is often derived from effort. -->
+<!-- Even when a student is not able to achieve their desired goal, they are reassured having put in their best effort. -->
+
+---
+
+# The Necessity of Passion (1)
+
+Institutes of higher education must handle two competing objectives:
+Promoting holistic learning and accrediting student accomplishments
+
+The role of grades is influenced by **cultural assumptions**:
+* Favorable evaluation motivates students to work harder
+* Grading is a fair, reliable, and objective system for measuring accomplishments
+* Students and teachers must be accountable for proof of achievements
+
+<!-- Contention between two competing purposes in institutes of higher education: learning and assessment -->
+<!-- The degree to which grades play a role in learning is influenced by cultural assumptions. -->
+<!-- These assumptions may come from the culture of the social context or the culture of the school. -->
+<!-- A highly competitive university for example may put a stronger emphasis on the role of grades in order to distinguish their students. -->
+
+---
+
+# The Necessity of Passion (2)
+
+**Student grades obsession**: extreme ego-oriented achievement driven by extrinsic rewards.
+
+Students may be under pressure to perform for various reasons:
+- To achieve qualifications (i.e., scholarships)
+- To improve employability
+- To live up to the expectations of one's teachers, parents, and/or self
+
+Consequences include anxiety, cheating, a malformed self-concept, intellectual dependency on teacher approval, and undermined intrinsic motivation to learn.
+
+<!-- Ultimately, grade obsession can occur as an extreme result of this overemphasizing the role of grades. -->
+
+---
+<!-- _paginate: false -->
+![bg contrast:130% right:48% cover](images/sysiphus.png)
+
+# The Myth of Sysiphus
+
+***The Absurd***:
+We struggle to understand our purpose in a world that offers no answers.
+Repetition is meaningless as it gets us nowhere.
+
+***The Antidote***:
+The lack of a *given meaning* in life invites us to master an *interpreted meaning*.
+Iterating over things gives new perspective each time.
+
+<!-- French philosopher Albert Camus believed that in a world with no clear meaning or purpose, we must conquer our own fates. -->
+<!-- In his essay 'The Myth of Sysiphus', he describes a mythological figure who became a hero of his own absurd situation. -->
+<!-- Sysiphus was a man who lived with such great love and passion for life, he tricked the gods twice in order to cheat death. -->
+<!-- As a result, the gods condemned him to an eternity pushing a boulder up a hill only for it to roll back down again. -->
+<!-- According to Camus, Sysiphus rises above his punishment by facing the absurdity of it and realizing its inherent meaninglessness. -->
+<!-- Doing so frees him from the drudgery and allows him to create his own meaning and rediscover passion in the activity. -->
+<!-- The lack of inherent meaning in things allows us to define our own purpose and become truly happy in our pursuits. -->
+<!-- Camus argues that even though Sisyphus is trapped in a repetitive structure, within that structure he is free.  -->
+<!-- “His fate belongs to him. His rock is his thing. . . he knows himself to be the master of his days.” -->
+<!-- The Japanese have a phrase "Ichi-go Ichi-e" (一期一会) which means exact moments can never be repeated and so should be cherished as once-in-a-lifetime experiences. -->
+
+---
+<!-- _paginate: false -->
+
+![bg right:40%](imates/../images/jobs.jpeg)
+
+# "Do What You Love" (DWYL) Advocation
+
+Assumptions behind DWYL advice for students:
+* All students have the potential to be successful if they just find their passion and work hard at it.
+* Everybody has multiple career options and full agency regarding the direction of their career.
+* All work should serve a passion or eventually evolve to that point.
+
+###### Stebleton, M. J. (2019). Moving Beyond Passion: Why “Do What You Love” Advice for College Students Needs Reexamination, Journal of College and Character, 20:2, 163-171, DOI: [10.1080/2194587X.2019.1591289](https://doi.org/10.1080/2194587X.2019.1591289)
+
+<!-- In his 2005 commencement address at Standford University, Steve Jobs famously told the graduates to find what they love. -->
+<!-- Especially in America which follows an independent model of motivation, discovering one's passion is viewed as the golden key that unlocks a happy and successful life and career. -->
+<!-- While this is great advice as we previously established that passion is necessary, it only covers half of the picture. -->
+<!-- Students who view passion as inherently individualistic and privileged may respond better to an idealistic purpose that emphasizes collective meaning. -->
+<!-- Furthermore, the amount of time and freedom to explore one's career options may not be available to students who have limited resources, student debt, or obligations towards family. -->
+<!-- Students may not be fully aware of the messages and circumstances influencing their decisions. It is worthwhile for them to reflect on their values, skills, and knowlege about future prospects in an effort to pursue interests, but discoverying a "true passion" is not necessary and may be simply impractical for many. -->
+
+---
+
+# Finding Your Passion: <br>Growth Mindset Vs. Fixed Mindset
+
+Students who believe their interests to be fixed:
+- are less engaged with topics outside their existing interests,
+- believe passions provide limitless motivation without difficulties, and
+- disengage faster when potentially new interests became difficult.
+
+*There are many similarities between a growth mindset and an exploratory identity.*
+
+###### O'Keefe, P. A., Dweck, C. S., and Walton, G. M. (2018). Implicit Theories of Interest: Finding Your Passion or Developing It? Psychological Science 2018, Vol. 29(10) 1653–1664. DOI: [10.1177/0956797618780643](https://doi.org/10.1177/0956797618780643)
+
+<!-- A band of researchers including Carol Dweck, the American Psychologist famous for her theory of intelligence, decided to test the theory for interests as well. -->
+<!-- Five studies examined students with a fixed mindset vs growth mindset regarding their interests. -->
+<!-- "The fixed mindset is an identity statement." -->
+
+---
+
+# Exploration in STEM
+
+While a fixed mindset is an identity statement, growth mindset is akin to exploratory identity development.
+- Normative identity
+- Exploratory identity 
+
+###### Perez, T., Cromley, J. G., and Kaplan, A. (2014). The role of identity development, values, and costs in college STEM retention. Journal of Educational Psychology, 106(1), 315–329. DOI: [10.1037/a0034027](https://doi.org/10.1037/a0034027)
+
+---
+<!-- _paginate: false -->
+![bg right:38%](image/../images/afaf_portrait.png)
+
+# The Case of Afaf:<br> Purpose Guides Passion
+
+2nd year student 
+International College of Technology
+
+**Video Producer** and **Contestant**
+[Space Debris - Breakthrough Junior Challenge 2021](https://youtu.be/TvXXeqMk_9c)
+
+:arrow_right: A strict goal helped her to explore her interests.
+
+<!-- Afaf is a member of the Design and Fabrication Club where students are expected to make projects as they like -->
+<!-- She joined the Breakthrough Junior Challenge contest where teenagers make a 3-minute video about science -->
+<!-- Studying video editing on its own would be boring, so Afaf joined the competition to have a deadline -->
+<!-- Managed the process with a Gantt chart to plan choosing a topic, scripting, filming and editing -->
+
+---
+<!-- _paginate: false -->
+![bg right:38% cover](images/tokido.png)
 
 # The Case of Tokido:<br> Passion Drives Purpose 
 
@@ -292,24 +356,6 @@ Approx. Total Winnings: $585,359
 <!-- So he followed his passion and readjusted his purpose to become the world's top fighting champion. -->
 
 ---
-![bg right:40%](image/../images/afaf_portrait.png)
-
-# The Case of Afaf:<br> Purpose Guides Passion
-
-2nd year student 
-International College  ofTechnology
-
-**Video Producer** and **Contestant**
-[Space Debris - Breakthrough Junior Challenge 2021](https://youtu.be/TvXXeqMk_9c)
-
-:arrow_right: A strict goal allowed her to explore her interests.
-
-<!-- Afaf is a member of the Design and Fabrication Club where students are expected to make projects as they like -->
-<!-- She joined the Breakthrough Junior Challenge contest where teenagers make a 3-minute video about science -->
-<!-- Studying video editing on its own would be boring, so she joined the competition to have a deadline -->
-<!-- Managed the process of choosing a topic, scripting, filming and editing by planning with a Gantt chart -->
-
----
 
 # Take Away Advice for Addressing Motivation
 
@@ -317,7 +363,12 @@ International College  ofTechnology
 * Apply grading to promote self-reflection/formative assessments  
 * Cultivate a growth mindset for both learning and interest
 * Establish clear expectations and norms without undermining personal autonomy
+* Consider reflection activities that relate subject matter to students' sense of purpose
+* Maintain a balance between language of passion and language of purpose
+
+<!-- Self-reflection into one's interests, values, skills, occupational knowledge, and the future of work with the goal of discovering a self-purpose would serve students who have a limited understanding of their possibilities. -->
 
 ---
 
 # <!-- fit --> Thank You
+ View these slides at https://bit.ly/CDIOAsia2021

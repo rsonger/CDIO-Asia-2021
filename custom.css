@@ -1,10 +1,13 @@
 /* @theme custom */
 
 @import 'default';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=News+Cycle&display=swap');
 
 :root {
     padding: 2rem;
     padding-bottom: 4rem;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 28px;
 }
 
 /* section {
@@ -27,7 +30,7 @@ section.profile {
 
 h1 {
     font-size: 36pt;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Ubuntu', Tahoma, sans-serif;
 }
 
 h2 {
@@ -35,7 +38,7 @@ h2 {
     color: darkslategrey;
 }
 
-/* Footnotes */
+/* Footnotes and captions*/
 h5 {
     font-size: 14pt;
     font-weight: normal;
@@ -46,10 +49,16 @@ h5 {
 /* On-slide reference citations */
 h6 {
     font-size: 14pt;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    font-family: 'News Cycle', 'Arial Narrow', sans-serif;;
     font-weight: normal;
+    text-align: justify;
     position: absolute;
     bottom: 70px;
+    width: 90%;
+}
+
+table {
+    display: table;
 }
 
 a {
