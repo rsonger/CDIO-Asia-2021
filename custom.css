@@ -10,10 +10,6 @@
     font-size: 28px;
 }
 
-/* section {
-    background: rgb(247, 255, 254);
-} */
-
 section img {
     vertical-align: middle;
 }
@@ -56,6 +52,7 @@ h6 {
     bottom: 70px;
     width: 90%;
     line-height: 110%;
+    padding-bottom: 3px;
 }
 
 table {
